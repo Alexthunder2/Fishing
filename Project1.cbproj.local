@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.605,C:\Users\Пользователь\Documents\Embarcadero\Studio\Projects\Unit1.cpp=D:\программы\рыбалка\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.585,=C:\Users\Пользователь\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.324,=D:\программы\рыбалка\Unit5.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.265,=D:\программы\CBuilder\рыбалка\Unit12.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.369,=D:\программы\CBuilder\рыбалка\Unit13.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.743,=D:\программы\CBuilder\рыбалка\Unit11.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.078,=D:\программы\рыбалка\Unit6.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.605,C:\Users\Пользователь\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\программы\рыбалка\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.728,C:\Users\Пользователь\Documents\Embarcadero\Studio\Projects\Project1.cbproj=D:\программы\рыбалка\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.156,=D:\программы\CBuilder\рыбалка\Unit14.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.559,=D:\программы\CBuilder\рыбалка\Unit9.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.554,=D:\программы\рыбалка\Unit7.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.122,=D:\программы\рыбалка\Unit4.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.943,=D:\программы\CBuilder\рыбалка\Unit10.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.508,=D:\программы\рыбалка\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.309,=D:\программы\рыбалка\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.070,=D:\программы\CBuilder\рыбалка\Unit8.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.921,C:\Users\Пользователь\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=D:\программы\рыбалка\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.605,C:\Users\Пользователь\Documents\Embarcadero\Studio\Projects\Unit1.h=D:\программы\рыбалка\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.465,=C:\Users\Пользователь\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+  </Transactions>
+</BorlandProject>
